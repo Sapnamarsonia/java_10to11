@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+
+#uniqueElement {
+    background-color:lightpink;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+
+.commonStyle {
+    background-color: lightgreen;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}

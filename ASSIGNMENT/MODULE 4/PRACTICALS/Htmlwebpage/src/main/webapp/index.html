@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>welcome to webpage</title>
+ <style> 
+        .nav_tag { 
+            text-align: center; 
+            margin: 30px 0; 
+            font-size: 35px; 
+        } 
+         table{  
+            border-collapse: collapse;  
+            width: 30%;   
+        }  
+    th,td{  
+        border: 2px solid green;   
+        padding: 15px;  
+    }  
+    </style> 
+</head>
+<body>
+	<nav> 
+        <a href="#">File</a> | 
+        <a href="#">Edit</a> | 
+        <a href="#">Search</a> | 
+        <a href="#">Menu</a> | 
+        <a href="#">Help</a> 
+    </nav> 
+    <div>
+      <section id="form">
+       	<h2>Registration Form</h2>
+        <form action="#" method="post">
+    
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required> <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required><br><br>
+        
+
+        <input type="submit" value="Submit">
+    </form>
+    </section>
+    
+    <hr>
+    <section id="table">
+            <h2>Submitted User Data</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Age</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>demo1</td>
+                        <td>demo1@example.com</td>
+                        <td>30</td>
+                    </tr>
+                    <tr>
+                        <td>demo2</td>
+                        <td>demo2@example.com</td>
+                        <td>25</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+     <hr>
+     
+        <section id="images">
+            <h2>Images with Alt Text</h2>
+            <img src="https://via.placeholder.com/150" alt="Placeholder Image 1" width="150">
+            <img src="https://via.placeholder.com/150" alt="Placeholder Image 2" width="150">
+        </section>
+     <hr>
+     <section id="lists">
+            <h2>Ordered and Unordered Lists</h2>
+
+            <h3>Unordered List</h3>
+            <ul>
+                <li>Apple</li>
+                <li>Banana</li>
+                <li>Cherry</li>
+            </ul>
+
+            <h3>Ordered List</h3>
+            <ol>
+                <li>First Step</li>
+                <li>Second Step</li>
+                <li>Third Step</li>
+            </ol>
+        </section>
+     
+    </div>
+</body>
+</html>
