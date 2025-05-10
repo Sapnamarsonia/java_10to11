@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring Jar/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jakarta.validation-api-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-beans-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-context-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-context-support-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-core-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-expression-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-web-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Tops java/External Jars/Spring MVC Jar/spring-webmvc-4.0.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
